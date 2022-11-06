@@ -1,4 +1,4 @@
-# Intelligence sources
+# Sources
 
 ## News
 
