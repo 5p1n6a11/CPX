@@ -6,7 +6,6 @@
 
 ## Contents
 
-* [Exploit](exploit.md)
 * [MITRE ATT&CK](MITRE_ATT&CK)
 
 ## Known Exploited Vulnerabilities Catalog | CISA
