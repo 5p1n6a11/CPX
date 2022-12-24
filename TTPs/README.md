@@ -7,10 +7,7 @@
 ## Contents
 
 * [Exploit](exploit.md)
-
-## MITRE ATT&CK&reg;
-
-https://attack.mitre.org/
+* [MITRE ATT&CK](MITRE_ATT&CK)
 
 ## Known Exploited Vulnerabilities Catalog | CISA
 
