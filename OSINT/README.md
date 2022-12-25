@@ -8,7 +8,7 @@ Open-source intelligence
 
 ## Sources
 
-セキュリティ技術情報収集媒体[^LAC_osint]
+セキュリティ情報収集媒体[^LAC_osint]
 
 [^LAC_osint]: [セキュリティエンジニアにセキュリティ技術情報収集のやり方を聞いてみた - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20220711)
 
