@@ -12,7 +12,7 @@ Open-source intelligence
 
 [^LAC_osint]: [セキュリティエンジニアにセキュリティ技術情報収集のやり方を聞いてみた - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20220711)
 
-## News
+### News
 
 BleepingComputer | Cybersecurity, Technology News and Support
 
@@ -22,7 +22,7 @@ The Hacker News - Most Trusted Cyber Security and Computer Security Analysis
 
 https://thehackernews.com/
 
-## Twitter
+### Twitter
 
-## Blog
+### Blog
 
