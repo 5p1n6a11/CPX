@@ -26,3 +26,6 @@ https://thehackernews.com/
 
 ### Blog
 
+### 脆弱性情報データベース
+
+### SNS
