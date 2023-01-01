@@ -30,4 +30,6 @@ https://thehackernews.com/
 
 ### SNS
 
+#### reddit.com（SNS）
+
 ### 技術コミュニティサイト
