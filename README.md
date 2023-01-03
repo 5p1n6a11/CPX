@@ -1,5 +1,1 @@
 # CPX
-
-## Contents
-
-* [vulnerability](vulnerability/)
