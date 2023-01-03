@@ -1,3 +1,1 @@
-# Initial Access
 
-## Technique
