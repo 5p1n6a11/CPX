@@ -9,7 +9,8 @@ While cyber defense is an enormously in-depth topic, there are certain mindsets,
 ## Table of Contents
 
 * [SOC Functions](#SOC-Functions)
-* [SOC Functions Diagram](#SOC-Functions-Diagram)
+  * [SOC Functions Diagram](#SOC-Functions-Diagram)
+  * [SOC Core Functions](#SOC-Core-Functions)
 
 ## SOC Functions
 
