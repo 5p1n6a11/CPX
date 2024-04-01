@@ -33,6 +33,14 @@ In the diagram below, core functions are drawn in solid boxes while auxiliary fu
 
 ![SOC Functions Diagram](SOC_Functions_Diagram.png)
 
+### SOC Core Functions
+
+The following are the deconstructed pieces of running a Security Operations Center and are listed as “core” activities that the average cyber defense team is responsible for. The section that follows will discuss each function, its goals, and how to predict that function's effectiveness.
+
+以下は、セキュリティ・オペレーション・センターの運営を分解したものであり、平均的なサイバー防衛チームが担当する「中核的」活動として列挙されている。以下のセクションでは、各機能、その目標、およびその機能の有効性を予測する方法について説明する。
+
+![SOC_Core_Functions](SOC_Core_Functions.png)
+
 ## References
 
 https://www.sans.org/posters/guide-to-security-operations/
