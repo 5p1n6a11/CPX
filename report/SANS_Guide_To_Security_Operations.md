@@ -32,7 +32,7 @@ In the diagram below, core functions are drawn in solid boxes while auxiliary fu
 
 下図では、中核機能は実線で、補助機能は破線で描かれている。この図における補助機能の配置は、組織図として推奨されるものではなく、単にそれらのグループ／機能から SOC の中核的なタスクへの入力を示すものである。注意すべき重要な項目は、これらの機能はインプットとアウトプットの直列化された連鎖を形成しているため、プロセスの初期項目の実行に失敗すると、さらに下位の機能に影響が及ぶということである。つまり、可能な限り最良の結果を確実にするためには、プロセスの早い段階で機能を最適化し、集中的に取り組むべきである。
 
-![SOC Functions Diagram](SOC_Functions_Diagram.png)
+![SOC Functions Diagram](figure/SOC_Functions_Diagram.png)
 
 ### SOC Core Functions
 
@@ -40,7 +40,7 @@ The following are the deconstructed pieces of running a Security Operations Cent
 
 以下は、セキュリティ・オペレーション・センターの運営を分解したものであり、平均的なサイバー防衛チームが担当する「中核的」活動として列挙されている。以下のセクションでは、各機能、その目標、およびその機能の有効性を予測する方法について説明する。
 
-![SOC_Core_Functions](SOC_Core_Functions.png)
+![SOC_Core_Functions](figure/SOC_Core_Functions.png)
 
 ## References
 
